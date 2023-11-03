@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "oil-impact"
+version = "0.1.0"
+description = ""
+authors = ["Ridwan Amzat <amzatr886@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+pandas = "^2.1.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.26.0"
+pytest = "^7.4.3"
+black = "^23.10.1"
+flake8 = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
