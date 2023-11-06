@@ -1,5 +1,5 @@
 outs:
-- md5: d7c2f7feaa94702c661f216fa2f2ebb4
-  size: 1113
+- md5: 264f65e4ee0d1f903b6fe1e2a2a39eb1
+  size: 701
   hash: md5
   path: clean.py
