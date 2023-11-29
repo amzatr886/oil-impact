@@ -1,6 +1,6 @@
 outs:
-- md5: c7656d9b925c5bea9250ac91dad33abe.dir
-  size: 335039
+- md5: ccdee414640b2b905b83700b192dfd37.dir
+  size: 334863
   nfiles: 4
   hash: md5
   path: world-gdp

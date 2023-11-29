@@ -1,0 +1,5 @@
+outs:
+- md5: 379ba52a57fca815a888ee5aa72a1a6e
+  size: 100441
+  hash: md5
+  path: gdp_world_final_insight_03.csv

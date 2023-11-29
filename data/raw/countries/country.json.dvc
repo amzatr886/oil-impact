@@ -1,0 +1,5 @@
+outs:
+- md5: ea987230c63dcbbb71589a1fef8322fd
+  size: 34071
+  hash: md5
+  path: country.json

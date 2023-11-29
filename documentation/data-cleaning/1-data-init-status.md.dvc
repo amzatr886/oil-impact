@@ -1,0 +1,5 @@
+outs:
+- md5: 0562ab3ffed3aed777d417b1847b3239
+  size: 2797
+  hash: md5
+  path: 1-data-init-status.md

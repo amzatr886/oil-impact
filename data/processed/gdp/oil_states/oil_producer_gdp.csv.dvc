@@ -1,0 +1,5 @@
+outs:
+- md5: 337db89041aee01f10bd2244648c9e09
+  size: 44690
+  hash: md5
+  path: oil_producer_gdp.csv

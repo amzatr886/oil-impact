@@ -1,0 +1,5 @@
+outs:
+- md5: 8b8fd164818aa2d65a748c0c1fadb2d9
+  size: 625
+  hash: md5
+  path: avg_oil_price.csv

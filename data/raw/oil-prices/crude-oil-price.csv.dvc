@@ -1,0 +1,5 @@
+outs:
+- md5: 31d1836d9ec2843ced6efa23cc197482
+  size: 18579
+  hash: md5
+  path: crude-oil-price.csv

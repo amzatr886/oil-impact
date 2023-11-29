@@ -1,0 +1,5 @@
+outs:
+- md5: c068d014c58775b39a1cbba7deb1935d
+  size: 1531
+  hash: md5
+  path: oil-price-per-barrel.csv
